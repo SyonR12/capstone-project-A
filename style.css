@@ -1,0 +1,81 @@
+/*About us/Home Stylesheet*/
+nav {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: black;
+}
+
+div {
+    color: white;
+}
+
+.header {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.header:hover {
+    background-color: gray;
+    opacity: 0.5;
+    border-radius: 15px;
+}
+
+#about_us_div {
+    border: 5px black solid;
+    border-radius: 15px;
+    margin-top: 50px; 
+    color: black;
+    width: 70%;
+    display:block;
+}
+
+#about_us_title {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    margin-top:50px;
+}
+
+.name_divs {
+    color:black;
+    display:flex;
+    border:3px black solid;
+}
+
+.name_divs p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    color:black;
+}
+
+#syon_image {
+    width: 300px;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+
+#personal_websites_div {
+    border: 5px black solid;
+    border-radius: 15px;
+    margin-top: 50px; 
+    color: black;
+    width: 30%;
+    display:block;
+    text-align: center;
+}
+
+#homepage_div {
+    display:flex;
+}

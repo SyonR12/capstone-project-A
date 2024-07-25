@@ -1,0 +1,12 @@
+/*Final Thoughts Stylesheet*/
+nav {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: black;
+}
+
+div {
+    color: white;
+}
